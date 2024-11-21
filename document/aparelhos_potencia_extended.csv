@@ -1,0 +1,11 @@
+device,potencia,horas-de-uso-mensal,timestamp,dicas-de-economia
+Aparelho de som,200,159,2024-02-20 00:00:00,Desligue quando não estiver em uso.
+Aquecedor de ambiente,1500,174,2024-02-19 00:00:00,Use somente em dias frios e mantenha portas fechadas.
+Aspirador de pó,1000,159,2024-11-06 00:00:00,Limpe os filtros regularmente para melhorar a eficiência.
+Aquecedor central de água,5000,78,2024-12-31 00:00:00,Use com eficiência para reduzir o consumo.
+Balcão frigorífico,900,99,2024-04-03 00:00:00,Use com eficiência para reduzir o consumo.
+Batedeira,450,64,2024-09-14 00:00:00,Use com eficiência para reduzir o consumo.
+Boiler 40 litros,900,154,2024-08-26 00:00:00,Use com eficiência para reduzir o consumo.
+Boiler 80 litros,1200,50,2024-08-31 00:00:00,Use com eficiência para reduzir o consumo.
+Cafeteira,300,94,2024-02-26 00:00:00,Desligue após o uso para evitar consumo desnecessário.
+Computador,350,193,2024-08-01 00:00:00,Ative o modo de economia de energia.

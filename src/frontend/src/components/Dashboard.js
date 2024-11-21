@@ -227,7 +227,7 @@ const Dashboard = () => {
       </Box>
 
       {selectedTip && (
-        <Card sx={{ marginTop: "20px", padding: "10px", maxWidth: "400px" }}>
+        <Card sx={{ marginTop: "20px", padding: "10px", maxWidth: "100%" }}>
           <CardContent>
             <Typography variant="h6">Dica para usar melhor - {selectedDevice}</Typography>
             <Typography>{selectedTip}</Typography>
@@ -235,15 +235,14 @@ const Dashboard = () => {
         </Card>
       )}
 
-      {/* Gráfico */}
-      <Box sx={{ marginTop: "20px" }}>
+      <Box sx={{ marginTop: "10px", height: "400px", marginLeft: "0px"}}>
   <Typography variant="h5" gutterBottom>
     Consumption and Cost Evolution
   </Typography>
   <VictoryChart
     theme={VictoryTheme.material}
-    width={250}
-    height={250}
+    width={500}
+    height={400}
     domainPadding={20}
   >
     <VictoryAxis label="Devices" style={{ axisLabel: { padding: 30 } }} />
@@ -259,7 +258,7 @@ const Dashboard = () => {
       y={10}
       orientation="horizontal"
       gutter={10}
-      style={{ border: { stroke: "black" }, title: { fontSize: 12 } }}
+      style={{ border: { stroke: "black" }, title: { fontSize: 1 } }}
       data={[
         { name: "Consumption (kWh)", symbol: { fill: "#c43a31" } },
         { name: "Cost (R$)", symbol: { fill: "#4f81bd" } },
