@@ -77,7 +77,7 @@ Este projeto é um sistema integrado para **gerenciamento e otimização do cons
 
 ### **Passos para Configuração**
 
-#### Clone o Repositório**
+#### Clone o Repositório
 ```bash
 git clone https://github.com/seu-user/fiap-global-solution.git
 cd fiap-global-solution/src/backend
