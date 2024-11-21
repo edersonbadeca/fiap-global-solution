@@ -8,11 +8,13 @@
 
 ### Global Solution - 1º Semestre
 
-# Grupo 52
-
+# Grupo 11
 
 ## 👨‍🎓 Integrantes:
-- <a href="https://www.linkedin.com/in/ederson-badeca/">Ederson Luiz Badeca</a> 
+- [Caio Rodrigues Castro](https://www.linkedin.com/in/caiorcastro/)
+- [Ederson Luiz Badeca dos Santos](https://www.linkedin.com/in/ederson-badeca/)
+- [Felipe Soares Nascimento](https://www.linkedin.com/in/digitalmanagerfelipesoares/)
+- [Lucas Ferreira Hillesheim](https://www.linkedin.com/in/lfhillesheim/)
 
 ## 👩‍🏫 Professores:
 ### Tutor(a) 
