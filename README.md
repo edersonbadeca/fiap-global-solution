@@ -126,7 +126,6 @@ Content-Type: application/json
 disponibilizamos um arquivo com dados para importação que pode ser acessado [documents](document/aparelhos_potencia_extended.csv)
 
 
-```bash
 #### Configuração do Frontend
 ```bash
 cd ../frontend
