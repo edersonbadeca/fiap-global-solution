@@ -25,9 +25,13 @@
 ## 📜 Descrição
 
 ### Sistema Residencial Inteligente para Otimização do Consumo Energético
+
 Este projeto é um sistema integrado para **gerenciamento e otimização do consumo energético em residências**, combinando **Python** no backend com **ReactJS** no frontend. A aplicação monitora dispositivos domésticos, calcula o consumo energético e apresenta relatórios interativos e dicas para eficiência energética. Com foco em sustentabilidade e economia, o sistema prioriza decisões baseadas em dados em tempo real.
 
 ---
+### Documentação detalhada
+
+a documentação detalhada do projeto pode ser acessada [aqui](document/Sistema%20Residencial%20Inteligente%20para%20Otimização%20do%20Consumo%20Energético.docx.pdf)
 
 ## **Recursos Principais**
 
